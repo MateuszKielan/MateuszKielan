@@ -3,7 +3,7 @@
 
 3rd year bachelor Artificial Intelligence student at Vrije Universiteit Amsterdam
 
-##Contact Information
+## Contact Information
 email: mateuszkielan38@gmail.com
 
 -->
